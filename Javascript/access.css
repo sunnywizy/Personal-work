@@ -1,0 +1,73 @@
+body {
+    background-color: #EEE;
+    color: #111;
+    font-family: 'Roboto Slab', serif;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+
+  .bg-dark {
+    background-color: #111;
+    color: #EEE
+  }
+
+  .buttons {
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .button{
+    background-color:#111;
+    color: #EEE;
+    font-weight: bold;
+  }
+
+  .bg-blue{
+    background-color: rgb(34, 34, 216);
+  }
+
+  .bg-brown {
+    background-color: rgb(93, 9, 9);
+  }
+
+  .bg-green {
+    background-color: rgb(16, 98, 16);
+  }
+
+  .bg-none {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .post-button {
+    margin: 0 0 0 300px;
+  }
+
+  .border {
+    max-width: 600px;
+    text-align: justify;
+    border: #111 solid 3px;
+    margin: auto auto 10px auto;
+    padding: 10px;
+  }
+
+  .side-bar {
+    background-color: rgb(53, 224, 224);
+    max-width: 600px;
+    margin: auto;
+    height: 100%;
+    text-align: justify;
+    padding: 10px 10px 450px 10px;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  
